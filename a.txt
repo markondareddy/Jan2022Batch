@@ -1,0 +1,7 @@
+this is a.txt file
+
+
+
+we are in git class
+
+
